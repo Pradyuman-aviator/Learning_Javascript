@@ -5,6 +5,8 @@ var accoutNaem =  "Pradyuman sharma"
 let accountEmail = " Pradyuman@gmail.com"
 accountcity = "Rakkar"
 
+let AccountState; // if we gonna try to print this variable we gonna get return the not defined 
+
 /* 
 prefer not to use the var 
 
